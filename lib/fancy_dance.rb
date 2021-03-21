@@ -19,6 +19,11 @@ module FancyDance
     end
     
     
-  end`
+  end
+  
+  module ClassMethods
+    
+    
+  end
   
 end
